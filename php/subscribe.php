@@ -2,8 +2,8 @@
 /*-----------------------------------------------
   # Variables
   ---------------------------------------------*/
-$MailchimpAPI 	= 'a1218bb07e0b0245c3680054c8eee697-us16'; //<- Your Maichimp API Key
-$MailchimpLID 	= 'b08d24d82a'; //<- Your Maichimp List IDkey
+$MailchimpAPI 	= '953a66470fa0fe53d26d32fac24c4d84-us20'; //<- Your Maichimp API Key
+$MailchimpLID 	= '94be9edb59'; //<- Your Maichimp List IDkey
 
 $email 			= $_POST['email'];
 $fname 			= isset($_POST['fname']) && !empty($_POST['fname']) ? $_POST['fname'] : '';
