@@ -13778,7 +13778,7 @@ Download Two
     left: 50px;
   }
   .banner.banner-two .banner-content .banner-btn.color-two{
-    margin-bottom: 20px;
+    margin-bottom: 100px;
   }
  
 }
@@ -17691,9 +17691,11 @@ Download Two
   #footer .widget.footer-widget .widget-title {
     margin-bottom: 25px;
   }
+  .banner.banner-two{height: 900px !important;}
 }
 
 @media (max-width: 768px) {
+  .banner.banner-two{height: 1000px !important;}
   #footer .footer-menu {
     margin-bottom: 40px;
   }
@@ -17707,6 +17709,9 @@ Download Two
   }
   #footer.footer-four .site-info .site-info-inner {
     display: block;
+  }
+  .banner.banner-two .banner-content .banner-btn.color-two{
+    margin-bottom: 50px;
   }
 }
 
