@@ -160,7 +160,9 @@ img {
   max-width: 100%;
   height: auto;
 }
-
+#brand-logo{
+  margin-bottom: 80px;
+}
 .pr {
   position: relative;
 }
